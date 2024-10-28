@@ -19,7 +19,7 @@ The attribute values typically range from 2 to 5. When creating your own charact
 ## Action Points
 All models start each combat round with 3 action points. These can be spent during the round, especially when they are activated, to perform actions.
 
-## Move (1 AP)
+## Move Action (1 AP)
 The active model can move up to twice the value of its Agility score. Obstacles up to 1" in height (excluding other models) can be ignored during movement. Regardless of the ranges mentioned below for partial steps while climbing or jumping, the character can never move more than the aforementioned double value of their Agility.
 
 Obstacles up to 3" in height can be easily climbed. The vertical movement simply counts toward the movement distance. This also applies to using ladders of any height.
