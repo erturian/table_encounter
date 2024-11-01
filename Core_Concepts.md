@@ -16,38 +16,49 @@ The attribute values typically range from 2 to 5. When creating your own charact
 | 12     | Ordinary Mortal    | 20     | Legendary Being    |
 | 14     | Leader             |        |                    |
 
+### Ability Tests
+To perform an attribute test, roll a number of dice equal to the respective attribute. Each roll of 4 or higher (4+) is a success.
+
+**Critical Tests:** Some tests also take into account critical successes and critical failures. In these tests, a roll of 1 is always a critical failure, and a roll of 6 is always a critical success.
+
 ## Action Points
 All models start each combat round with 3 action points. These can be spent during the round, especially when they are activated, to perform actions.
 
 ## Move Action (1 AP)
-The active model can move up to twice the value of its Agility score. Obstacles up to 1" in height (excluding other models) can be ignored during movement. Regardless of the ranges mentioned below for partial steps while climbing or jumping, the character can never move more than the aforementioned double value of their Agility.
-
-Obstacles up to 3" in height can be easily climbed. The vertical movement simply counts toward the movement distance. This also applies to using ladders of any height.
-
-> [!Note]
-> An obstacle is considered climbed once the character reaches the top edge, even if their movement range is not enough to place their base on the obstacle. In this case, simply place them at the nearest possible location.
+The active model can move up to twice the value of its Agility score. Obstacles up to 1" in height (excluding other characters) can be ignored during movement. 
+Regardless of the ranges mentioned below for partial steps while climbing or jumping, the character can never move more than the aforementioned double value of their Agility with one Move Action.
 
 ### Climbing 
-To climb obstacles higher than 3", roll a number of dice equal to the active character's Agility score. For each roll of 4 or higher, add 2" of vertical movement to the current distance to climb the obstacle. If the character's movement range is insufficient or they do not achieve enough successes on the climbing roll, they fall. 
+A character may climb a vertical distance up to the value of its Agility value, to climb obstacles higher than that (and without any support like ladders or so), perform an Agility test.
+For each success, add 2" of vertical movement to climb the obstacle. If the character's total movement range is insufficient or they do not achieve enough successes on the climbing roll, they fall. 
+
+> [!Note]
+> An obstacle is considered climbed once the character reaches the top edge, even if their movement range is not enough to place the base on the obstacle. In this case, simply place them at the nearest possible location.
 
 ### Jumping
-The active character can jump up to half of their Agility score. The character may also jump multiple times as long as a single jump is not longer than half its Agility Score. Add the jump distance normally to the movement already performed. For longer jumps, make an Agility test: for each roll of 4 or higher, the character moves 1". If the successes or movement range are not enough to clear the desired distance, place the character where they currently are.
+The active character can jump a horizontal distance up to half of their Agility score. For longer jumps, perform an Agility test. 
+For each success, the character crosses the distance of 1". If the successes or the total movement range are not enough to jump the desired distance, the character falls. 
+Place the model where it currently is (and possibly at a lower level).
 
 ### Falling
-
-If climbing or a jump fails, a character may fall. In this case, determine the target height of the obstacle to be climbed or the vertical distance the character has unintentionally fallen. For every 3", the character receives one point of stress.
+If climbing or a jump fails, a character may fall. In this case, determine the target height of the obstacle to be climbed or the vertical distance the character has unintentionally fallen. 
+For every 3", the character receives one point of stress.
 
 ## Close Combat Action (2 AP)
 
-### Pounce on
+### Engage
 The active model can move up to its Agility value. During this movement, opposing models are not taken into account, and the movement can also pass through or into threat ranges. The movement must end with at least one opposing model within the threat range of the active model.
 The attacker now selects an opponent within their threat range as the target of their attack.
 
-### Clash 
-The players secretly divide dice equal to their Melee value into attack and defense dice. It is important to note that the defender can only allocate dice for the attack if the attacker is within the threat range of their melee weapon.
-Then, they roll their dice simultaneously and compare their successes. A result of 4 or higher counts as a normal success, while a roll of 6 counts as a critical success.
+> [!Note]
+> The vertical threat range is 3" + the threat range of a given melee weapon.
 
-Normal successes from defense rolls negate opposing successes from attacks, while critical successes from defense rolls can negate up to two normal successes or one critical success from opposing attacks.
+### Clash 
+The players secretly divide dice equal to their Melee value into attack and defense dice and perform a critical attribute test.
+Compare the successes: Successes from defense rolls negate opposing successes from attacks, while critical successes from defense rolls can negate up to two normal successes or one critical success from opposing attacks.
+
+> [!Note]
+> A character may only deal damage with melee attacks, while the opponent is in range of at least one of their melee weapons.
 
 ### Example Melee Weapons
 | Name    | Threat Range | Damage        | Critical                                                                | Points |
