@@ -21,6 +21,18 @@ To perform an attribute test, roll a number of dice equal to the respective attr
 
 **Critical Tests:** Some tests also take into account critical successes and critical failures. In these tests, a roll of 1 is always a critical failure, and a roll of 6 is always a critical success.
 
+## Stress and incapability
+The toughness value of a character determines how well they can withstand wounds or stress situations in combat. Each time the character takes damage, their stress level increases by the same amount.
+
+At the start of their activation, check the character's stress level. If it equals or exceeds the character's toughness value, they break down and must stay idle to recover. Resolve the following steps:
+
+1. Lose all Activation Points.
+2. Perform a stress test (critical toughness test).
+3. If the character is still on the battlefield, reduce the character's stress level by the value of their toughness.
+
+### Stress Test
+Each failed roll reduces the character's toughness value by 1. A critical failure also adds 1 to the stress level. A critical success lowers the stress level by 1. If the toughness value falls to 0, the character's nerves break, or they are severely injured and can no longer continue the fight. Remove them from the game.
+
 ## Action Points
 All models start each combat round with 3 action points. These can be spent during the round, especially when they are activated, to perform actions.
 
@@ -68,32 +80,33 @@ Compare the successes: Successes from defense rolls negate opposing successes fr
 
 ## Shooting Action (2 AP)
 
-### Calculate Difficulty
-First, the difficulty of the shot is determined: The distance between the shooter and the target sets the base difficulty. This difficulty is then increased by 1 for each obstacle in the line of fire. An obstacle is defined as any object (including models) that is larger than 1".
+### 1. Calculate Difficulty
+First, the difficulty of the shot is determined. 
 
-The opponent can now decide whether the targeted model does nothing, takes cover (for 1 AP) or returns fire (for 2 AP). If it takes cover, increase the difficulty of the shot by half its agility skill.
+1. Measure the distance between the shooter and the target to set the base difficulty. 
+2. This is increased by 1 for each obstacle in the line of fire. (An obstacle is defined as any object [including models] that is larger than 1".)
+3. Include the difficulty modifier of the weapon being used
+4. The opponent can now decide whether the targeted model 
+  a) takes cover (target must spend 1 AP), which increases the difficulty of the shot by half of the targets agility value
+  b) returns fire (target must spend 2 AP)
+  c) does nothing
 
-### Shot
-The shooting model now rolls a number of dice equal to its ballistics ability. If the sum of the rolled values is equal to or higher than the difficulty, it has hit its target and inflicts damage.
-If the shooter misses their target, the owner rolls to see if an obstacle (including models!) was hit instead. They start with the obstacle closest to the target and resolve the obstacles step by step towards the shooter. Once a 4 or higher is rolled, it is determined whether an obstacle was hit and which one it is.
+### 2. Shot
+The shooting model now rolls a number of dice equal to its ballistics value. If the sum of the rolled values is equal to or higher than the difficulty, inflicts stress on the target. 
+If the shooter misses, the owning player rolls to see if an obstacle (including models) was hit instead, starting with the obstacle closest to the target and resolving them step by step towards the shooter. Once a roll of 4 or higher is achieved, determine whether an obstacle was hit and which one it is.
 
 > [!Note]
 > This rule is designed to allow interaction with the terrain. If an obstacle (and not a model) is hit, you can make something explode (dealing damage to all models within a 1"-3" radius), kick up dust (creating an opaque obstacle with a 2" circular template), or similar effects. Be creative!
 
-### Reaction
-If the opposing model has not been taken out and has gone to cover, its owner can now move it up to half its agility skill in inch. During this movement, they must try to obscure the line of sight between the target and the shooter further.
-Regardless of whether the targeted model has been taken out, it can now return fire if it did not take cover. This action costs 2 action points and is resolved immediately.
+### 3. Reaction
+Now, the opposing model's reaction is taken into account. 
+If it has gone to cover, its owner can now move it up to half its agility skill. During this movement, they must try to obscure the line of sight between the target and the shooter further.
+If it returns fire, the model may immediatly take a shooting action (without spending additional Action Points). The Action Points required for this action have already been spent during the 'Calculate Difficulty' phase.
 
 ### Example Shooting Weapons
-| Name    | Difficulty Mod | Damage        | Critical                                                     | Points |
-|---------|----------------|---------------|--------------------------------------------------------------|--------| 
-| Pistol  | 1              | 1             | 2                                                            | 3      |
-| Rifle   | 0              | 1             | D3                                                           | 4      |
-| Sniper  | -2             | 1             | no reactive shooting allowed, take cover move reduced by 1"  | 5      |
+| Name    | Difficulty Modifier | Damage        | Critical                                                     | Points |
+|---------|---------------------|---------------|--------------------------------------------------------------|--------| 
+| Pistol  | -1                  | 1             | 2                                                            | 3      |
+| Rifle   | 0                   | 1             | D3                                                           | 4      |
+| Sniper  | 2                   | 1             | no reactive shooting allowed, take cover move reduced by 1"  | 5      |
 
-## Stress and incapability
-The toughness value of a character determines how well they can withstand wounds or stress situations in combat. Each time the character takes damage, their stress level increases by the same amount. Once the stress level equals or exceeds the character's toughness value, they must perform a stress test:
-
-Roll a number of dice equal to the character's toughness value. A roll of 4 or higher counts as a success. For each failed roll, decrease the character's toughness value by 1.
-
-If the toughness value falls to 0, the character's nerves break, or they are so severely injured that they can no longer continue the fight. Remove them from the game.
