@@ -86,10 +86,10 @@ First, the difficulty of the shot is determined.
 1. Measure the distance between the shooter and the target to set the base difficulty. 
 2. This is increased by 1 for each obstacle in the line of fire. (An obstacle is defined as any object [including models] that is larger than 1".)
 3. Include the difficulty modifier of the weapon being used
-4. The opponent can now decide whether the targeted model 
-  a) takes cover (target must spend 1 AP), which increases the difficulty of the shot by half of the targets agility value
-  b) returns fire (target must spend 2 AP)
-  c) does nothing
+4. The opponent can now decide whether the targeted model
+    - a) takes cover (target must spend 1 AP), which increases the difficulty of the shot by half of the targets agility value
+    - b) returns fire (target must spend 2 AP)
+    - c) does nothing
 
 ### 2. Shot
 The shooting model now rolls a number of dice equal to its ballistics value. If the sum of the rolled values is equal to or higher than the difficulty, inflicts stress on the target. 
