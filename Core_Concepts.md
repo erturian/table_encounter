@@ -25,9 +25,8 @@ To perform an attribute test, roll a number of dice equal to the respective attr
 A character's Toughness value determines how well they can withstand wounds and stressful situations in combat. Risky maneuvers and opposing combat actions can induce stress, while safer situations may help reduce the stress on a character.
 The actual amount of stress is tracked using the character's stress level.
 
-**At the start of their activation**, check the character's stress level. 
-- If it doubles the toughness value, immediatly reduce their toughness by 1
-- Now, if it equals or exceeds the character's toughness value, they break down and must stay idle to recover. Resolve the following steps:
+**At the start of their activation**, check the character's stress level:
+If it doubles the toughness value, immediatly reduce their toughness by 1. Now, if it equals or exceeds the character's toughness value, they break down and must stay idle to recover. Resolve the following steps:
 
 1. Lose all Activation Points.
 2. Perform a stress test (critical toughness test).
