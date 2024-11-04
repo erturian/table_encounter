@@ -22,9 +22,12 @@ To perform an attribute test, roll a number of dice equal to the respective attr
 **Critical Tests:** Some tests also take into account critical successes and critical failures. In these tests, a roll of 1 is always a critical failure, and a roll of 6 is always a critical success.
 
 ## Stress and incapability
-The toughness value of a character determines how well they can withstand wounds or stress situations in combat. Each time the character takes damage, their stress level increases by the same amount.
+A character's Toughness value determines how well they can withstand wounds and stressful situations in combat. Risky maneuvers and opposing combat actions can induce stress, while safer situations may help reduce the stress on a character.
+The actual amount of stress is tracked using the character's stress level.
 
-At the start of their activation, check the character's stress level. If it equals or exceeds the character's toughness value, they break down and must stay idle to recover. Resolve the following steps:
+**At the start of their activation**, check the character's stress level. 
+- If it doubles the toughness value, immediatly reduce their toughness by 1
+- Now, if it equals or exceeds the character's toughness value, they break down and must stay idle to recover. Resolve the following steps:
 
 1. Lose all Activation Points.
 2. Perform a stress test (critical toughness test).
@@ -32,6 +35,9 @@ At the start of their activation, check the character's stress level. If it equa
 
 ### Stress Test
 Each failed roll reduces the character's toughness value by 1. A critical failure also adds 1 to the stress level. A critical success lowers the stress level by 1. If the toughness value falls to 0, the character's nerves break, or they are severely injured and can no longer continue the fight. Remove them from the game.
+
+> [!Note]
+> A character may accumulate much stress over the course of a single round. But she may also find relief. The character's stress level is only checked at the start of its regular activation.
 
 ## Action Points
 All models start each combat round with 3 action points. These can be spent during the round, especially when they are activated, to perform actions.
