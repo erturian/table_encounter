@@ -36,7 +36,7 @@ If it doubles the toughness value, immediatly reduce their toughness by 1. Now, 
 Each failed roll reduces the character's toughness value by 1. A critical failure also adds 1 to the stress level. A critical success lowers the stress level by 1. If the toughness value falls to 0, the character's nerves break, or they are severely injured and can no longer continue the fight. Remove them from the game.
 
 > [!Note]
-> A character may accumulate much stress over the course of a single round. But she may also find relief. The character's stress level is only checked at the start of its regular activation.
+> A character may accumulate much stress over the course of a single combat round. But she may also find relief. The character's stress level is only checked at the start of its regular activation.
 
 ## Action Points
 All models start each combat round with 3 action points. These can be spent during the round, especially when they are activated, to perform actions.
