@@ -61,7 +61,7 @@ First, the difficulty of the shot is determined.
     - c) does nothing
   
 > [!Note]
-> If the enemy character is targeted by this attack because they took an Aid action this turn, they cannot take cover but can return fire without spending AP.
+> If the enemy character is targeted by this attack after they took an Aid action this turn, they cannot take cover but can return fire without spending AP.
 
 ### 2. Shooting
 The shooting model now rolls a number of dice equal to its ballistics value. 
@@ -85,9 +85,12 @@ Now, the opposing model's reaction is taken into account.
 
 ## Aid (2 AP)
 
-This character helps another in a dire situation. Choose another friendly character in base contact who has experienced a _Break Down_ this round.
-The friendly character immediately loses one stress point and then loses additional stress points for each point of stress this character has caused to an opponent during this combat round.
+This character helps another in a dire situation. 
+- Choose another friendly character in base contact who has experienced a _Break Down_ this round.
+- The friendly character immediately loses one stress point and then loses additional stress points for each point of stress this character has caused to an opponent during this combat round.
 
-For this round, the following applies: As long as the friendly character remains in base contact, this character can take the place of the other friendly character if an opposing character targets them with a ranged or close combat attack.
-If this effect occurs, switch the positions of the two friendly characters and resolve the enemy's action as though this character had been the intended target.
-This character cannot seek cover in response to the opponent’s shooting attack. However, no action points are required for them to return fire.
+For this round, the following applies: 
+
+- As long as the friendly character remains in base contact, this character can take the place of the other friendly character if an opposing character targets them with a shooting or close combat action.
+  - If this effect occurs, switch the positions of the two friendly characters and resolve the enemy's action as though this character had been the intended target.
+- This character cannot seek cover in response to the opponent’s shooting attack. However, no action points are required for them to return fire.
