@@ -1,5 +1,5 @@
 ## Move (1 AP)
-The movement range of a character is double its Agility value. Obstacles up to 1 inch in height can be ignored during movement. 
+The movement range of a character is twice its Agility value in inches. Obstacles up to 1 inch in height can be ignored during movement. 
 A character can never exceed its movement range during a single Move Action.
 
 ### Climbing 
