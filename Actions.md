@@ -1,4 +1,4 @@
-## Move Action (1 AP)
+## Move (1 AP)
 The movement range of a character is double its Agility value. Obstacles up to 1 inch in height can be ignored during movement. 
 A character can never exceed its movement range during a single Move Action.
 
@@ -22,7 +22,7 @@ Place the model at its current location, potentially at a lower level.
 If a climbing or jumping attamept fails, a character may fall. In this case, determine the height of the obstacle that was attempted to be climbed or the vertical distance the character has fallen.
 For every 3 inches fallen, the character receives one point of stress.
 
-## Close Combat Action (2 AP)
+## Close Combat (2 AP)
 
 ### Engage
 1. The attacker choses one of their melee weapons as selected weapon for this attack. 
@@ -59,8 +59,11 @@ First, the difficulty of the shot is determined.
     - a) takes cover (target must spend 1 AP), which increases the difficulty of the shot by half of the targets agility value
     - b) returns fire (target must spend 2 AP)
     - c) does nothing
+  
+> [!Note]
+> If the enemy character is targeted by this attack because they took an Aid action this turn, they cannot take cover but can return fire without spending AP.
 
-### 2. Shot
+### 2. Shooting
 The shooting model now rolls a number of dice equal to its ballistics value. 
 - If the sum of the rolled values is equal to or higher than the difficulty, inflicts stress on the target. 
 - If the shooter misses, the owning player rolls to see if an obstacle (including models) was hit instead, starting with the obstacle closest to the target and resolving them step by step towards the shooter. Once a roll of 4 or higher is achieved, determine whether an obstacle was hit and which one it is.
@@ -80,3 +83,11 @@ Now, the opposing model's reaction is taken into account.
 | Rifle   | 0                   | 1             | D3                                                           | 4      |
 | Sniper  | 2                   | 1             | no reactive shooting allowed, take cover move reduced by 1"  | 5      |
 
+## Aid (2 AP)
+
+This character helps another in a dire situation. Choose another friendly character in base contact who has experienced a _Break Down_ this round.
+The friendly character immediately loses one stress point and then loses additional stress points for each point of stress this character has caused to an opponent during this combat round.
+
+For this round, the following applies: As long as the friendly character remains in base contact, this character can take the place of the other friendly character if an opposing character targets them with a ranged or close combat attack.
+If this effect occurs, switch the positions of the two friendly characters and resolve the enemy's action as though this character had been the intended target.
+This character cannot seek cover in response to the opponent’s shooting attack. However, no action points are required for them to return fire.
