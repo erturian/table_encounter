@@ -37,7 +37,7 @@ To calculate the points of equipment use the following tables:
 
 | Weapon attribute    | Description                                                       | Cost                         | 
 |--------------------:|-------------------------------------------------------------------|-----------------------------:|
-| Ranged              | safety has its price                                              | 12 points                    |
+| Ranged              | ranged weapons are generally more expensive                       | 12 points                    |
 | Oppression          | indicates the amount of stress, the weapon induces                | 6 per oppression value       |
 | Difficulty Modifier | only ranged weapons, negative score is also possible              | 2 per difficulty mod. value  |
 | Threat Range        | only melee weapons, in inches, maximum 3 inches                   | 2 per inch                   |
