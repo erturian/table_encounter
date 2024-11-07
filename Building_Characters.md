@@ -33,3 +33,32 @@ Usually the character attribute scores typically range from 2 and 5. Below is a 
 
 ## Equipment
 
+To calculate the points of equipment use the following tables:
+
+| Weapon attribute    | Description                                                       | Cost                         | 
+|--------------------:|-------------------------------------------------------------------|-----------------------------:|
+| Ranged              | safety has its price                                              | 12 points                    |
+| Oppression          | indicates the amount of stress, the weapon induces                | 6 per oppression value       |
+| Difficulty Modifier | only ranged weapons, negative score is also possible              | 2 per difficulty mod. value  |
+| Threat Range        | only melee weapons, in inches, maximum 3 inches                   | 2 per inch                   |
+| Move enemy          | shove enemy model x inches                                        | 2 per inch                   |
+| deny an action      | denies a part of a 2 AP action or a action worth up to 1 AP       | 18 points                    |
+
+
+| Special     | Description                                                        | Cost                         | 
+|------------:|--------------------------------------------------------------------|-----------------------------:|
+| Critical    | To use the effect as part of critical hits                         | divide the cost by 2         |
+| Random      | If the effect is bound to a die                                    | use the average dice roll    |
+
+### Example Weapons
+
+| Name    | Threat Range | Oppression    | Critical                                                                           | Points |
+|---------|--------------|---------------|------------------------------------------------------------------------------------|--------| 
+| Sword   | 1" (2 pt.)   | 1 (6 pt.)     | 2 (6 pt.)                                                                          | 14     |
+| Spear   | 2" (4 pt.)   | 1 (4 pt.)     | 1 (2 pt.) and shove the defender 1" directly back (1 time per activation)  (2 pt.) | 12     |
+
+| Name            | Difficulty Modifier | Damage        | Critical                                                                    | Points |
+|-----------------|---------------------|---------------|-----------------------------------------------------------------------------|--------| 
+| Pistol (12 pt.) | -1 (-2 pt.)         | 1 (6 pt.)     | 2 (6 pt.)                                                                   | 22     |
+| Rifle (12 pt.)  | 0                   | 1 (6 pt.)     | D3 (6 pt.)                                                                  | 24     |
+| Sniper (12 pt.) | 2 (4 pt.)           | 1 (6 pt.)     | no reactive shooting allowed (9 pt.), take cover move reduced by 1" (1 pt.) | 32     |
