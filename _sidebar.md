@@ -4,4 +4,4 @@
 ---
 - [Changelog](Changelog.md)
 
-  <small>The text on this Website is is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="CC-BY-SA 4.0">CC-BY-SA 4.0</a></small>
+The text on this Website is is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="CC-BY-SA 4.0">CC-BY-SA 4.0</a>
