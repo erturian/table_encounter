@@ -87,10 +87,11 @@ Now, the opposing model's reaction is taken into account.
 
 This character helps another in a dire situation. 
 - Choose another friendly character in base contact who has experienced a _Break Down_ this round.
-- The friendly character immediately loses one stress point and then loses additional stress points for each point of stress this character has caused to an opponent during this combat round.
+- The friendly character immediately loses one point of stress and then loses additional stress points for each point of stress this character has caused to an opponent during this combat round.
 
-For this round, the following applies: 
+As long as the friendly character remains in base contact and until the end of this round, the following applies: 
 
-- As long as the friendly character remains in base contact, this character can take the place of the other friendly character if an opposing character targets them with a shooting or close combat action.
-  - If this effect occurs, switch the positions of the two friendly characters and resolve the enemy's action as though this character had been the intended target.
+- This character can take the place of the other friendly character if an opposing character targets them with a shooting or close combat action.
+  - If this occurs, swap the positions of the two friendly characters and resolve the enemy's action as if this character were the intended target.
 - This character cannot seek cover in response to the opponent’s shooting attack. However, no action points are required for them to return fire.
+- If this character causes any stress to the enemies, the friendly character reduces their stress level by the same amount.
