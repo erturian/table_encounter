@@ -1,4 +1,3 @@
-- [Read Me](README.md)
 - [Core Concepts](Core_Concepts.md)
 - [Actions](Actions.md)
 - [Building Characters](Building_Characters.md)
