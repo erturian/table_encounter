@@ -6,8 +6,7 @@ This is a work in progress and is being updated.
 
 ## Why this project and who am I?
 
-Hi, i am Erturian, a tabletop and rpg enthusiast with a predilection for game mechanis and my goal is to create a flexible, modular, miniature agnostic tabletop system for skirmish battles. 
-I'd like to keep it simple, but it's harder to accomplish than it looks. The system shall have some nice mechanics to emphasis narrative situations to remember.
+Hi, I am Daniel, a tabletop and RPG enthusiast with a passion for game mechanics. My goal is to create a flexible, modular, miniature-agnostic tabletop system for skirmish battles. While I aim to keep it simple, achieving that balance is harder than it seems. The system will feature mechanics that highlight memorable narrative moments.
 
 ## Acknowledgments 
 
