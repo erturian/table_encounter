@@ -39,7 +39,7 @@ To calculate the points of equipment use the following tables:
 |--------------------:|-------------------------------------------------------------------|-----------------------------:|
 | Ranged              | ranged weapons are generally more expensive                       | 12 points                    |
 | Oppression          | indicates the amount of stress, the weapon causes                 | 6 per oppression value       |
-| Difficulty Modifier | only ranged weapons, negative score is also possible              | 2 per difficulty mod. value  |
+| Ranged Difficulty Modifier | only ranged weapons, negative score is also possible              | 2 per difficulty mod. value  |
 | Threat Range        | only melee weapons, in inches, maximum 3 inches                   | 2 per inch                   |
 | Move enemy          | move enemy model a number of inches                               | 2 per inch                   |
 | deny an action      | denies a part of a 2 AP action or a action worth up to 1 AP       | 18 points                    |
