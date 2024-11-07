@@ -77,7 +77,7 @@ Now, the opposing model's reaction is taken into account.
 - If it returns fire, the model may immediatly take a shooting action (without spending additional Action Points). The Action Points required for this action have already been spent during the 'Calculate Difficulty' phase.
 
 ### Example Shooting Weapons
-| Name            | Difficulty Modifier | Damage        | Critical                                                                    | Points |
+| Name            | Difficulty Modifier | Oppression    | Critical                                                                    | Points |
 |-----------------|---------------------|---------------|-----------------------------------------------------------------------------|--------| 
 | Pistol          | -1                  | 1             | 2                                                                           | 22     |
 | Rifle           | 0                   | 1             | D3                                                                          | 24     |
