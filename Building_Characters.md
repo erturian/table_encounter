@@ -57,7 +57,7 @@ To calculate the points of equipment use the following tables:
 | Sword   | 1" (2 pt.)   | 1 (6 pt.)     | 2 (6 pt.)                                                                          | 14     |
 | Spear   | 2" (4 pt.)   | 1 (4 pt.)     | 1 (2 pt.) and shove the defender 1" directly back (1 time per activation)  (2 pt.) | 12     |
 
-| Name            | Difficulty Modifier | Damage        | Critical                                                                    | Points |
+| Name            | Difficulty Modifier | Oppression    | Critical                                                                    | Points |
 |-----------------|---------------------|---------------|-----------------------------------------------------------------------------|--------| 
 | Pistol (12 pt.) | -1 (-2 pt.)         | 1 (6 pt.)     | 2 (6 pt.)                                                                   | 22     |
 | Rifle (12 pt.)  | 0                   | 1 (6 pt.)     | D3 (6 pt.)                                                                  | 24     |
