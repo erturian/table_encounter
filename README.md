@@ -1,4 +1,4 @@
-# Table Encounter - an open source skirmish tabletop srd
+# Table Encounter - an open skirmish tabletop srd
 
 ## Work in Progress
 
