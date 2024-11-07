@@ -22,14 +22,14 @@ To increase an ability score, you must spend 3 points.
 |-----------------|---|---|---|----|----|
 | Point Cost      | 3 | 6 | 9 | 12 | 15 | 
 
-Usually the character attribute scores typically range from 2 and 5. Below is a table for reference, showing the sum of all attributes.
+Usually the character attribute scores typically range from 2 and 5. Below is a table for reference, showing the sum of all attributes. and point cost needed.
 
-| Sum    | Description        | Sum    | Description        |
-|-------:|--------------------|-------:|--------------------|
-| 8      | Worm               | 16     | Hero               |
-| 10     | Minion             | 18     | Monster            |
-| 12     | Ordinary Mortal    | 20     | Legendary Being    |
-| 14     | Leader             |        |                    |
+| Sum    | Points | Description        | Sum    | Points | Description        |
+|-------:|--------|--------------------|-------:|--------|-----------------------|
+| 8      | 24 pt. | Worm               | 16     | 48 pt. | Hero               |
+| 10     | 30 pt. | Minion             | 18     | 54 pt. | Monster            |
+| 12     | 36 pt. | Ordinary Mortal    | 20     | 60 pt. | Legendary Being    |
+| 14     | 42 pt. | Leader             |        |        |                    |
 
 ## Equipment
 
