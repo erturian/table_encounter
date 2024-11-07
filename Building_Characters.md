@@ -61,4 +61,4 @@ To calculate the points of equipment use the following tables:
 |-----------------|---------------------|---------------|-----------------------------------------------------------------------------|--------| 
 | Pistol (12 pt.) | -1 (-2 pt.)         | 1 (6 pt.)     | 2 (6 pt.)                                                                   | 22     |
 | Rifle (12 pt.)  | 0                   | 1 (6 pt.)     | D3 (6 pt.)                                                                  | 24     |
-| Sniper (12 pt.) | 2 (4 pt.)           | 1 (6 pt.)     | no reactive shooting allowed (9 pt.), take cover move reduced by 1" (1 pt.) | 32     |
+| Sniper Rifle (12 pt.) | 2 (4 pt.)           | 1 (6 pt.)     | no reactive shooting allowed (9 pt.), take cover move reduced by 1" (1 pt.) | 32     |
