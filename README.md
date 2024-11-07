@@ -10,4 +10,4 @@ Hi, I am Daniel, a tabletop and RPG enthusiast with a passion for game mechanics
 
 ## Acknowledgments 
 
-1. This work uses the [7th Extinction](https:7thExtinctionrpg.com) as template.
+1. This website uses the [7th Extinction](https:7thExtinctionrpg.com) as template.
