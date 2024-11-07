@@ -42,10 +42,10 @@ For every 3 inches fallen, the character receives one point of stress.
 > A character may only induce stress with melee attacks, while the opponent is in range of at least one of their melee weapons.
 
 ### Example Melee Weapons
-| Name    | Threat Range | Oppression    | Critical                                                                | Points |
-|---------|--------------|---------------|-------------------------------------------------------------------------|--------| 
-| Sword   | 1"           | 1             | 2                                                                       | 4      |
-| Spear   | 2"           | 1             | 1 and shove the defender 1" directly back (1 time per activation)       | 4      |
+| Name    | Threat Range | Oppression    | Critical                                                            | Points |
+|---------|--------------|---------------|---------------------------------------------------------------------|--------| 
+| Sword   | 1"           | 1             | 2                                                                   | 14     |
+| Spear   | 2"           | 1             | 1  and shove the defender 1" directly back (1 time per activation)  | 12     |
 
 ## Shooting Action (2 AP)
 
@@ -77,11 +77,11 @@ Now, the opposing model's reaction is taken into account.
 - If it returns fire, the model may immediatly take a shooting action (without spending additional Action Points). The Action Points required for this action have already been spent during the 'Calculate Difficulty' phase.
 
 ### Example Shooting Weapons
-| Name    | Difficulty Modifier | Damage        | Critical                                                     | Points |
-|---------|---------------------|---------------|--------------------------------------------------------------|--------| 
-| Pistol  | -1                  | 1             | 2                                                            | 3      |
-| Rifle   | 0                   | 1             | D3                                                           | 4      |
-| Sniper  | 2                   | 1             | no reactive shooting allowed, take cover move reduced by 1"  | 5      |
+| Name            | Difficulty Modifier | Damage        | Critical                                                                    | Points |
+|-----------------|---------------------|---------------|-----------------------------------------------------------------------------|--------| 
+| Pistol          | -1                  | 1             | 2                                                                           | 22     |
+| Rifle           | 0                   | 1             | D3                                                                          | 24     |
+| Sniper          | 2                   | 1             | no reactive shooting allowed (9 pt.), take cover move reduced by 1"         | 32     |
 
 ## Aid (2 AP)
 
